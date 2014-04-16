@@ -14,4 +14,3 @@ production:
       password: <password>
       database: <database>
       options:
-        safe: true
