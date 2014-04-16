@@ -10,11 +10,8 @@ production:
       hosts:
         - - <hostname>.oceanic.mongohq.com
           - <port_number>
-        - - <hostname>.oceanic.mongohq.com
-          - <port_number>
       username: <username>
       password: <password>
       database: <database>
       options:
-        skip_version_check: true
         safe: true
