@@ -14,3 +14,5 @@ production:
       password: <password>
       database: <database>
       options:
+        skip_version_check: true
+        safe: true
