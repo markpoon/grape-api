@@ -8,9 +8,9 @@ production:
   sessions:
     default:
       hosts:
-        - - <hostname>.member0.mongohq.com
+        - - <hostname>.oceanic.mongohq.com
           - <port_number>
-        - - <hostname>.member1.mongohq.com
+        - - <hostname>.oceanic.mongohq.com
           - <port_number>
       username: <username>
       password: <password>
