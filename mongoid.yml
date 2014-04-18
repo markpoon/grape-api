@@ -2,7 +2,7 @@ development:
   sessions:
     default:
       database: fullstackdemo
-      hosts: 
+      hosts:
         - localhost:27017
 production:
   sessions:
